@@ -1,0 +1,322 @@
+/* add css module styles here (optional) */
+
+.test {
+  margin: 2em;
+  padding: 0.5em;
+  border: 2px solid #000;
+  font-size: 2em;
+  text-align: center;
+}
+.btn {
+  border: 2px solid #ffcbdb;
+  background-color: white;
+  color: #ffcbdb;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 120px;
+}
+.dotted{
+  border-style:dotted;
+}
+.dashed{
+  border-style: dashed;
+}
+.groove{
+  border-style: groove;
+}
+.ridge{
+  border-style: ridge;
+}
+.solid{
+  border-style: solid;
+}
+.double{
+  border-style: double;
+}
+.small{
+  padding: 8px 20px;
+}
+.large{
+  padding: 18px 32px;
+}
+.radius-white {
+  border-color: #ffcbdb;
+  color: #ffcbdb;
+  border-radius: 5px;
+}
+
+/* pink  */
+
+.radius-white:hover{
+  background-color: #ffcbdb;
+  color: white;
+}
+.radius-colorful{
+  border-color: #ffcbdb;
+  border-radius: 5px;
+  background-color: #ffcbdb;
+  color: white;
+}
+
+.radius-colorful:hover{
+  border-color: #ffcbdb;
+  background-color: white;
+  color: #e19fb3;
+}
+.shadow{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #e19fb3;
+}
+
+/* baby-blue */
+.baby-blue{
+  border-color: #B9EDFF;
+  color: #B9EDFF;
+}
+.radius-white:hover.baby-blue{
+  background-color: #B9EDFF;
+  color: white;
+}
+.radius-colorful.baby-blue{
+  border-color: #B9EDFF;
+  border-radius: 5px;
+  background-color: #B9EDFF;
+  color: white;
+}
+
+.radius-colorful:hover.baby-blue{
+  border-color: #B9EDFF;
+  background-color: white;
+  color: #B9EDFF;
+}
+.shadow.baby-blue{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #B9EDFF;
+}
+
+/* melon  */
+.melon{
+  border-color: #F3E0A9;
+  color: #F3E0A9;
+}
+.radius-white:hover.melon{
+  background-color: #F3E0A9;
+  color: white;
+}
+.radius-colorful.melon{
+  border-color: #F3E0A9;
+  border-radius: 5px;
+  background-color: #F3E0A9;
+  color: white;
+}
+
+.radius-colorful:hover.melon{
+  border-color: #F3E0A9;
+  background-color: white;
+  color:#F3E0A9 ;
+}
+.shadow.melon{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #F3E0A9;
+}
+/* mint green */
+.mint-green{
+  border-color: #99DCAE;
+  color: #99DCAE;
+}
+.radius-white:hover.mint-green{
+  background-color: #99DCAE;
+  color: white;
+}
+.radius-colorful.mint-green{
+  border-color: #99DCAE;
+  border-radius: 5px;
+  background-color: #99DCAE;
+  color: white;
+}
+
+.radius-colorful:hover.mint-green{
+  border-color: #99DCAE;
+  background-color: white;
+  color:#99DCAE;
+}
+.shadow.mint-green{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #99DCAE;
+}
+
+/* lilac  */
+.lilac{
+  border-color: #C09ECC;
+  color: #C09ECC;
+}
+.radius-white:hover.lilac{
+  background-color: #C09ECC;
+  color: white;
+}
+.radius-colorful.lilac{
+  border-color: #C09ECC;
+  border-radius: 5px;
+  background-color: #C09ECC;
+  color: white;
+}
+
+.radius-colorful:hover.lilac{
+  border-color: #C09ECC;
+  background-color: white;
+  color:#C09ECC;
+}
+.shadow.lilac{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #C09ECC;
+}
+ 
+/* purple  */
+.purple{
+  border-color: #BF65B6;
+  color: #BF65B6;
+}
+.radius-white:hover.purple{
+  background-color: #BF65B6;
+  color: white;
+}
+.radius-colorful.purple{
+  border-color: #BF65B6;
+  border-radius: 5px;
+  background-color: #BF65B6;
+  color: white;
+}
+
+.radius-colorful:hover.purple{
+  border-color: #BF65B6;
+  background-color: white;
+  color:#BF65B6;
+}
+.shadow.purple{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #BF65B6;
+}
+
+/* pome flo  */
+.pome-flo{
+  border-color: #F57684;
+  color: #F57684;
+}
+.radius-white:hover.pome-flo{
+  background-color: #F57684;
+  color: white;
+}
+.radius-colorful.pome-flo{
+  border-color: #F57684;
+  border-radius: 5px;
+  background-color: #F57684;
+  color: white;
+}
+
+.radius-colorful:hover.pome-flo{
+  border-color: #F57684;
+  background-color: white;
+  color:#F57684;
+}
+.shadow.pome-flo{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #F57684;
+}
+
+/* turquoise  */
+.turquoise{
+  border-color: #5FB5C2;
+  color: #5FB5C2;
+}
+.radius-white:hover.turquoise{
+  background-color: #5FB5C2;
+  color: white;
+}
+.radius-colorful.turquoise{
+  border-color: #5FB5C2;
+  border-radius: 5px;
+  background-color: #5FB5C2;
+  color: white;
+}
+
+.radius-colorful:hover.turquoise{
+  border-color: #5FB5C2;
+  background-color: white;
+  color:#5FB5C2;
+}
+.shadow.turquoise{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #5FB5C2;
+}
+
+/* orange  */
+.orange{
+  border-color: #F78700;
+  color: #F78700;
+}
+.radius-white:hover.orange{
+  background-color: #F78700;
+  color: white;
+}
+.radius-colorful.orange{
+  border-color: #F78700;
+  border-radius: 5px;
+  background-color: #F78700;
+  color: white;
+}
+
+.radius-colorful:hover.orange{
+  border-color: #F78700;
+  background-color: white;
+  color:#F78700;
+}
+.shadow.orange{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #F78700;
+}
+/* fuchsia  */
+.fuchsia{
+  border-color: #C84B8E;
+  color: #C84B8E;
+}
+.radius-white:hover.fuchsia{
+  background-color: #C84B8E;
+  color: white;
+}
+.radius-colorful.fuchsia{
+  border-color: #C84B8E;
+  border-radius: 5px;
+  background-color: #C84B8E;
+  color: white;
+}
+
+.radius-colorful:hover.fuchsia{
+  border-color: #C84B8E;
+  background-color: white;
+  color:#C84B8E;
+}
+.shadow.fuchsia{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  border-color: white;
+  color: #C84B8E;
+}
